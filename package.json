@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "backend",
+=======
+  "name": "atomicads-sde-assignment",
+>>>>>>> d0f9665e28e56255729df4f797e1f8f950e6fed9
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -24,4 +29,17 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.2"
   }
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaniyajawed1/atomicads-sde-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaniyajawed1/atomicads-sde-assignment/issues"
+  },
+  "homepage": "https://github.com/shaniyajawed1/atomicads-sde-assignment#readme"
+>>>>>>> d0f9665e28e56255729df4f797e1f8f950e6fed9
 }
